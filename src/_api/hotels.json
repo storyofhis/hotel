@@ -1,0 +1,12 @@
+[
+  { "id": "1", "hotel_name": "Grand Hyatt Hotel" },
+  { "id": "2", "hotel_name": "Kempinski Hotel" },
+  { "id": "3", "hotel_name": "Ciputra Hotel" },
+  { "id": "4", "hotel_name": "Artotel Thamrin Hotel" },
+  { "id": "5", "hotel_name": "Aston Kartika Hotel" },
+  { "id": "6", "hotel_name": "Wyndham Casablanca Hotel" },
+  { "id": "7", "hotel_name": "Luminor Hotel" },
+  { "id": "8", "hotel_name": "The 101 Hotel" },
+  { "id": "9", "hotel_name": "Mercure Gatot Subroto Hotel" },
+  { "id": "10", "hotel_name": "Ibis Hotel" }
+]
